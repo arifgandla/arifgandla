@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arifgandla
 - 👀 I’m interested in learning new technology
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on google
+- 💞️ I’m looking to collaborate on google,Amazon,TCS, Jio 
 - 📫 How to reach me gandlaarifbasha7@gmail.com
 - 😄 Pronouns: arif
 
